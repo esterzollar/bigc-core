@@ -17,7 +17,5 @@ All software, libraries, distributions, or derivative works built using BigC or 
 The "Beyond Big Complexity" philosophy encourages growth. Users are granted the absolute freedom to fork the BigC engine, modify the core logic, and create derivative works or entirely new languages based on its source.
 **Condition:** Derivative works must be clearly identified by a unique name or explicitly labeled as a "Fork of BigC" to maintain the integrity and clarity of the official distribution.
 
-## 5. Community Labs (GUI Contribution)
-The GUI source files and designated 'Labs' are open for community contribution. Contributions submitted to and accepted by the official BigC repository will be governed by this Mandate.
-
-"Flat is Better. Logic is Sovereign."
+## 5. Community Labs 
+The source files and designated 'Labs' are open for community contribution. Contributions submitted to and accepted by the official BigC repository will be governed by this Mandate.

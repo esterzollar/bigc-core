@@ -1,0 +1,23 @@
+# BigC Universal Public Mandate License (BUPML)
+
+Version 1.0
+Copyright (c) 2026 esterzollar (Beyond Big Complexity)
+
+## 1. Ownership & Authority
+BigC, including its core logic, the 'bigrun' engine, and the 'BigC' brand, are the exclusive property of esterzollar. This Mandate ensures the language remains a unified "Living Textbook" while granting the community the freedom to build upon its foundations.
+
+## 2. Universal Grant of Use
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software to use BigC for any purpose—including personal, educational, and commercial applications—without restriction or payment of royalties.
+
+## 3. Mandatory Attribution
+All software, libraries, distributions, or derivative works built using BigC or its source code must include the following attribution in a prominent location:
+"Powered by BigC - Beyond Big Complexity"
+
+## 4. Freedom of Evolution (Forking)
+The "Beyond Big Complexity" philosophy encourages growth. Users are granted the absolute freedom to fork the BigC engine, modify the core logic, and create derivative works or entirely new languages based on its source.
+**Condition:** Derivative works must be clearly identified by a unique name or explicitly labeled as a "Fork of BigC" to maintain the integrity and clarity of the official distribution.
+
+## 5. Community Labs (GUI Contribution)
+The GUI source files and designated 'Labs' are open for community contribution. Contributions submitted to and accepted by the official BigC repository will be governed by this Mandate.
+
+"Flat is Better. Logic is Sovereign."
